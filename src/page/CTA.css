@@ -1,0 +1,89 @@
+.CTA{
+  position: relative;
+  width: 100%;
+  height: 475px;
+  /* background: gray; */
+}
+
+.CTA_left_pat{
+  position: absolute;
+  width: 55%;
+  height: 100%;
+  background:rgb(213, 216, 207);
+}
+
+.CTA_left_pat h4{
+  position: absolute;
+  margin-top: 55px;
+  margin-left: 50px;
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.line_16{
+  position: absolute;
+  width: 40px;
+  height: 2px;
+  background: black;
+  margin-top: 84px;
+  margin-left: 50px;
+}
+
+.CTA_left_pat h1{
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 50px;
+  font-size: 40px;
+}
+
+.Get_button{
+ position: absolute;
+ margin-top: 330px;
+ margin-left:50px;
+ padding: 14px;
+ font-size: 20px;
+ font-weight: 600;
+ border: none;
+ border-radius: 8px;
+ transition: all linear 0.3s;
+ cursor: pointer;
+ background: rgb(185, 182, 182);
+}
+
+.Get_button:hover{
+    background: black;
+    color: white;    
+}
+
+.our_button{
+ position: absolute;
+ margin-top: 330px;
+ margin-left:200px;
+ padding: 14px;
+ font-size: 20px;
+ font-weight: 600;
+ border: none;
+ border-radius: 8px;
+ transition: all linear 0.3s;
+ cursor: pointer;
+ background: rgb(185, 182, 182);
+
+}
+
+.our_button:hover{
+  background: black;
+  color: white;  
+}
+
+.CTA_right_pat{
+  position: absolute;
+  width: 45%;
+  height: 100%;
+  /* background: lightcoral; */
+  margin-left: 55%;
+}
+
+.CTA_right_pat img{
+  width: 100%;
+  height: 100%;
+}

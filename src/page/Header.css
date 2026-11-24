@@ -1,0 +1,75 @@
+.header_pat a{
+  color: white; 
+}
+.header_pat{
+    display: flex;
+    flex-direction: row;
+    background: rgb(248, 255, 255);
+}
+
+.logo {
+  width: 95px;
+  height: auto;
+  margin-top: 10px;
+  margin-left: 20px;
+
+}
+
+.manu{
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-left: 120px;
+  padding: 0 30px;
+  list-style: none;
+  cursor: pointer;
+
+}
+
+
+.header_pat ul li {
+  font-size: 20px;
+  font-family: bold;
+  font-weight: 700;
+  padding: 7px;
+  border-radius: 8px;
+  transition: all linear 0.3s;
+  color: rgb(99, 95, 95);
+
+}
+
+.header_pat ul li:hover{
+  background: rgb(17, 17, 17);
+  color: white;
+
+}
+
+
+.btn{
+    width: 110px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 100px;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 700;
+    transition: all linear 0.3s;
+    cursor: pointer;
+}
+
+.btn:hover{
+  background:rgb(32, 30, 30);
+  color: white;
+}
+
+.fourDot{
+  width:95px;
+  height:95px;
+  margin-top: 5px;
+  margin-left: 10px;
+  cursor: pointer;
+
+
+}

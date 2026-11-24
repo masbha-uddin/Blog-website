@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+.main_pat{
+    width: 100%;
+    height: 700px;
+    background: black;
+    display: flex;
+}
+
+.left_pat_3{
+    width:650px;
+    height: 100%;
+    /* background: gray; */
+    position:relative;
+}
+
+.left_pat_3 h4{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 30px;
+    font-size: 23px;
+    font-weight: 500;
+    color: white;
+}
+
+.left_pat_3 h6{
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 30px;
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+    
+}
+
+.left_pat_3 input{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 300px;
+    font-size: 17px;
+    background: none;
+    padding: 10px 0px;
+    width: 400px;
+    border:none ;
+    outline: none;
+    color: whitesmoke;
+}
+
+.left_pat_3 button{
+    position: absolute;
+    margin-top: 300px;
+    height: 40px;
+    background: none;
+    color: white;
+    margin-left: 432px;
+    border: none;
+    cursor: pointer;
+}
+
+.line_14{
+    position: absolute;
+    width: 415px;
+    height: 1px;
+    background:white;
+    margin-top: 342px;
+    margin-left: 30px;
+}
+
+.cetagori{
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 30px;
+    font-weight:500 ;
+    font-size: 18px;
+    color: white;
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    
+}
+
+.cetagori li{
+    cursor: pointer;
+    transition: all linear 0.3s;
+}
+
+.cetagori li:hover{
+    color: gray;
+}
+
+.right_pat_3{
+    position: relative;
+    width: 650px;
+    height: 100%;
+    /* background: lightblue; */
+
+}
+
+.pages{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 30px;
+    color: gray;
+    font-size: 20px;
+}
+
+.cetagori_2{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 30px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: white;
+    
+
+}
+
+.cetagori_2 li{
+    font-size: 20px;
+    cursor: pointer;
+    transition: all linear 0.3s;
+}
+
+.cetagori_2 li:hover{
+    color: gray;
+}
+
+.Resources{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 400px;
+    color: gray;
+    font-size: 20px;
+
+}
+
+.cetagori_3{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 400px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: white;
+}
+
+.cetagori_3 li{
+    font-size: 20px;
+    cursor: pointer;
+    transition: all linear 0.3s;
+}
+
+.cetagori_3 li:hover{
+    color: gray;
+}
+
+.Location{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 30px;
+    color: gray;
+    font-size: 20px;
+}
+
+.business{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 30px;
+    color: white;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.Follow_us{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 400px;
+    color: gray;
+    font-size: 20px;
+}
+
+.img_pat_3{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 340px;
+    background: white;
+}
+
+.Contact_us{
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 30px;
+    font-size: 20px;
+    color: gray;
+}
+
+.number{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 30px;
+    font-size: 15px;
+    cursor: pointer;
+    color: white;
+}
+
+.gmail{
+    position: absolute;
+    margin-top: 490px;
+    margin-left: 30px;
+    font-size: 15px;
+    cursor: pointer;
+    color: white;
+
+
+}
+
+.line_15{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 25px;
+    width: 1200px;
+    height: 1px;
+    background: white;
+}
+
+.last_pat_logo{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-top: 600px;
+    
+}
+
+.last_pat_text{
+    position: absolute;
+    margin-top: 640px;
+    margin-left: 750px;
+    color: white;
+}
