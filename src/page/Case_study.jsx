@@ -6,6 +6,7 @@ import Last_pat from './Last_pat';
 
 
 
+
 function Case_study() {
   return (
     <div>

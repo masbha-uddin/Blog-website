@@ -61,7 +61,7 @@ function Last_pat() {
 
             <div className='line_15'></div>
 
-            <img src='img/logo.png' className='last_pat_logo' />
+            <img src='img/log.png' className='last_pat_logo' />
 
             <h4 className='last_pat_text'>© 2025 Casho-Work by Onmix. Made with  Webflow.Webflow</h4>
 

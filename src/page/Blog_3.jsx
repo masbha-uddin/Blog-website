@@ -8,7 +8,7 @@ function Blog_3() {
   return (
     <div>
         <div className='Blog_3'>
-            <h4>Organizational Development | January 10, 2025</h4>
+            <h4>Organizational Development | January 9, 2025</h4>
             <h1>Financial Health: Key Indicators Every Business <br/> Should Monitor</h1>
             <img src='img/img_13_2.png'/>
         </div>
